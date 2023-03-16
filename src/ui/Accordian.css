@@ -1,0 +1,22 @@
+/*
+Place your custom CSS here
+*/
+
+.AccordianHeader{
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    height: 50px;
+    border: 1px solid gray;
+    text-align: left;
+    padding: 0 0 0 25px;
+}
+
+.accordion-header > button{
+    border: none;
+    background-color: white;
+    margin: 8px 0 0 0;
+    width: 100%;
+    height: 30px;
+    text-align: left;
+}

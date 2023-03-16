@@ -1,0 +1,23 @@
+/*
+Place your custom CSS here
+*/
+
+.AccordianHeader{
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    height: 50px;
+    border: 1px solid gray;
+    text-align: left;
+    padding: 0 0 0 25px;
+}
+
+.accordion-header > button{
+    border: none;
+    background-color: white;
+    margin: 8px 0 0 0;
+    width: 100%;
+    height: 30px;
+    text-align: left;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uL3NyYy91aS9BY2NvcmRpYW4uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztDQUVDOztBQUVEO0lBQ0ksV0FBVztJQUNYLHVCQUF1QjtJQUN2QixtQkFBbUI7SUFDbkIsWUFBWTtJQUNaLHNCQUFzQjtJQUN0QixnQkFBZ0I7SUFDaEIsbUJBQW1CO0FBQ3ZCOztBQUVBO0lBQ0ksWUFBWTtJQUNaLHVCQUF1QjtJQUN2QixpQkFBaUI7SUFDakIsV0FBVztJQUNYLFlBQVk7SUFDWixnQkFBZ0I7QUFDcEIiLCJmaWxlIjoiQWNjb3JkaWFuLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG5QbGFjZSB5b3VyIGN1c3RvbSBDU1MgaGVyZVxuKi9cblxuLkFjY29yZGlhbkhlYWRlcntcbiAgICB3aWR0aDogMTAwJTtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcbiAgICBib3JkZXItcmFkaXVzOiAxMHB4O1xuICAgIGhlaWdodDogNTBweDtcbiAgICBib3JkZXI6IDFweCBzb2xpZCBncmF5O1xuICAgIHRleHQtYWxpZ246IGxlZnQ7XG4gICAgcGFkZGluZzogMCAwIDAgMjVweDtcbn1cblxuLmFjY29yZGlvbi1oZWFkZXIgPiBidXR0b257XG4gICAgYm9yZGVyOiBub25lO1xuICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xuICAgIG1hcmdpbjogOHB4IDAgMCAwO1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIGhlaWdodDogMzBweDtcbiAgICB0ZXh0LWFsaWduOiBsZWZ0O1xufSJdfQ==*/

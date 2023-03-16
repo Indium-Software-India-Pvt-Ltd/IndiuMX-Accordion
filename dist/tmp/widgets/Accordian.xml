@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget
+    id="mendix.accordian.Accordian"
+    pluginWidget="true"
+    needsEntityContext="true"
+    offlineCapable="true"
+    supportedPlatform="Web"
+    xmlns="http://www.mendix.com/widget/1.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.mendix.com/widget/1.0/ ../node_modules/mendix/custom_widget.xsd"
+>
+    <name>IndiuMX Accordion</name>
+    <description>Accordion Widget</description>
+    <icon />
+    <properties>
+        <propertyGroup caption="General">
+            <property key="heading" type="attribute" required="false">
+                <caption>Heading</caption>
+                <description/>
+                <attributeTypes>
+                    <attributeType name="String" />
+                </attributeTypes>
+            </property>
+            <property key="boolean" type="boolean" defaultValue="false">
+                <caption>Select Boolean</caption>
+                <description>Accordian will be opened, if the value of the boolean is true.</description>
+            </property>
+            <property key="onEnter" type="action" required="false">
+                <caption>On Enter</caption>
+                <description>Action to trigger when the body is Entered</description>
+            </property>
+            <property key="onExit" type="action" required="false">
+                <caption>On Exit</caption>
+                <description>Action to trigger when the body is Closed</description>
+            </property>
+            <property key="content" type="widgets" required="false">
+                <caption>Content</caption>
+                <description>Content of a box</description>
+            </property>
+        </propertyGroup>
+    </properties>
+</widget>
